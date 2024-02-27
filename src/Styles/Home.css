@@ -1,0 +1,16 @@
+/* Home.css */
+
+.centered-text {
+    text-align: center;
+    margin-top: 20px; /* Add margin-top for spacing if needed */
+  }
+  
+  .centered-text p {
+    display: inline-block;
+  }
+
+  .col h3 {
+    text-align: center;
+    margin-top: 20px; /* Add margin-top for spacing if needed */
+  }
+  
